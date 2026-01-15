@@ -1,0 +1,5 @@
+{
+  "name": "FaceFusion Studio",
+  "description": "A professional AI-powered media studio featuring deepfake simulation workflow and real-time Generative AI tools using Google Gemini and Veo models.",
+  "requestFramePermissions": []
+}
